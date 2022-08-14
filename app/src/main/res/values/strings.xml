@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="welcome_frag_text1">Welcome To The Shop Inventory App</string>
+    <string name="welcome_frag_text2">Please Click On The Blow</string>
+    <string name="welcome_frag_button_text">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="company_name">Company Name</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="shoe_details">Shoe Details</string>
+    <string name="instruction_2">2: Don\'t Forget To Click The Save Button To Save The Shoe On The List</string>
+    <string name="instruction_1">1: Click The Add Icon To Add A New Shoe</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+
+</resources>
